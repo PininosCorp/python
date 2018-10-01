@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Spyder Editor
-	cambio
+	cambio cerrado
 This is a temporary script file.
 """
 
